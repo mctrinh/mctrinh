@@ -27,7 +27,7 @@ mctrinh 👋</a> </h1>
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=python,fortran,c,cpp,react,js,css,html,tensorflow,docker,vim,latex,matlab,octave,vscode,visualstudio,illustrator,autocad&theme=light&perline=50" />
+    <img src="https://skillicons.dev/icons?i=python,fortran,c,cpp,react,js,css,html,tensorflow,docker,vim,latex,matlab,octave,vscode,visualstudio,illustrator,autocad&theme=light&perline=9" />
   </a>
 </p>
 
