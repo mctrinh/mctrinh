@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm <a href="https://trinhminhchien.com/" target="blank">
 mctrinh 👋</a> </h1>
 
+<div align="left">
+
+![](https://komarev.com/ghpvc/?username=mctrinh&style=flat)
+
+</div>
 
 - 🏦 I am a researcher at <a href="https://msdl.jbnu.ac.kr/" target="blank">MSDL</a>, JBNU, South Korea.
 
@@ -12,11 +17,6 @@ mctrinh 👋</a> </h1>
 - 🌴 At spare time, I play guitar, learn piano, play tennis, go swimming, sink myself into some pieces of music 🎵
 
 
-<div align="left">
-
-![](https://komarev.com/ghpvc/?username=mctrinh&style=flat)
-
-</div>
 
 <div style="display: flex; align-items: center; justify-content: center;">
 
@@ -26,7 +26,7 @@ mctrinh 👋</a> </h1>
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=python,fortran,c,cpp,react,js,css,html,tensorflow,docker,vim,latex,matlab,octave,vscode,visualstudio,illustrator,autocad&theme=light&perline=50" />
   </a>
 </p>
@@ -34,19 +34,17 @@ mctrinh 👋</a> </h1>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/mctrinh">
+        <a href="https://github.com/mctrinh">
 		<img src="https://skillicons.dev/icons?i=github&theme=light"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19124198/tmc">
+		<a href="https://stackoverflow.com/users/19124198/tmc">
 				<img src="https://skillicons.dev/icons?i=stackoverflow&theme=light"></a>
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/minh-chien-trinh/">
+        <a href="https://www.linkedin.com/in/minh-chien-trinh/">
 			<img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/tmc.607/">
+        <a href="https://www.instagram.com/tmc.607/">
 			<img src="https://skillicons.dev/icons?i=instagram&theme=light"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/minhchientrinh">
+		<a href="https://twitter.com/minhchientrinh">
 			<img src="https://skillicons.dev/icons?i=twitter&theme=light" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/tmcTMC">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://discord.gg/KsmuK4vxSg">
+		<a href="https://discord.gg/KsmuK4vxSg">
             <img src="https://skillicons.dev/icons?i=discord&theme=light" />
     </div>
 </p>
