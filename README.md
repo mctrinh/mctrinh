@@ -35,18 +35,18 @@ mctrinh 👋</a> </h1>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/mctrinh">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://skillicons.dev/icons?i=github&theme=light"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19124198/tmc">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+				<img src="https://skillicons.dev/icons?i=stackoverflow&theme=light"></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/minh-chien-trinh/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/tmc.607/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+			<img src="https://skillicons.dev/icons?i=instagram&theme=light"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/minhchientrinh">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+			<img src="https://skillicons.dev/icons?i=twitter&theme=light" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/tmcTMC">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://discord.gg/KsmuK4vxSg">
-            <img src="https://skillicons.dev/icons?i=discord&theme=light&perline=50" />
+            <img src="https://skillicons.dev/icons?i=discord&theme=light" />
     </div>
 </p>
