@@ -17,21 +17,21 @@ mctrinh 👋</a> </h1>
 - 🌴 At spare time, I play guitar, learn piano, play tennis, go swimming, sink myself into some pieces of music 🎵
 
 
-
+<!-- 
 <div style="display: flex; align-items: center; justify-content: center;">
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=mctrinh&hide_border=true)](https://github.com/mctrinh)
 
-</div>
+</div> -->
 
-
+<!-- 
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=python,fortran,c,cpp,react,js,css,html,tensorflow,docker,vim,latex,matlab,octave,vscode,visualstudio,illustrator,autocad&theme=light&perline=9" />
   </a>
-</p>
+</p> -->
 
-
+<!-- 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a href="https://github.com/mctrinh">
@@ -47,4 +47,4 @@ mctrinh 👋</a> </h1>
 		<a href="https://discord.gg/KsmuK4vxSg">
             <img src="https://skillicons.dev/icons?i=discord&theme=light" />
     </div>
-</p>
+</p> -->
