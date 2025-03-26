@@ -3,7 +3,7 @@ mctrinh 👋</a> </h1>
 
 🏦 I am a researcher at <a href="https://msdl.jbnu.ac.kr/" target="blank">MSDL</a>, Jeonbuk National University, South Korea.
 
-🌱 Research interests: computational mechanics, DNA origami, and AI.
+🌱 Research interests: Computational mechanics, DNA origami, and AI.
 
 ⚡ More about me at <a href="https://trinhminhchien.com/" target="_blank">trinhminhchien.com</a>
 
