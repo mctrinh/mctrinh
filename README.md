@@ -1,21 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://trinhminhchien.com/" target="blank">
 mctrinh 👋</a> </h1>
 
-<div align="left">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmctrinh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-- 🏦 I am a researcher at <a href="https://msdl.jbnu.ac.kr/" target="blank">MSDL</a>, JBNU, South Korea.
-
-- 🌱 My research interests are ML for Computer vision, DNA origami, and Computational mechanics.
-- ⚡ You can find my publications, dev notes, researches and more about me <a href="https://trinhminhchien.com/" target="blank">here</a>.
-
-- 🌞 and 🌙 I enjoy coding.
-
-- 🌴 At spare time, I play guitar, learn piano, play tennis, go swimming, sink myself into some pieces of music 🎵
-
+- 🏦 I am a researcher at <a href="https://msdl.jbnu.ac.kr/" target="blank">MSDL</a>, Jeonbuk National University, South Korea.
+- 🌱 My research interests include computational mechanics, DNA origami, and AI.
+- ⚡ More about me at <a href="https://trinhminhchien.com/" target="_blank">trinhminhchien.com</a>
 
 <!-- 
 <div style="display: flex; align-items: center; justify-content: center;">
