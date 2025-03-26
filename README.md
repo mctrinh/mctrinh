@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://trinhminhchien.com/" target="blank">
 mctrinh 👋</a> </h1>
 
-- 🏦 I am a researcher at <a href="https://msdl.jbnu.ac.kr/" target="blank">MSDL</a>, Jeonbuk National University, South Korea.
-- 🌱 My research interests include computational mechanics, DNA origami, and AI.
-- ⚡ More about me at <a href="https://trinhminhchien.com/" target="_blank">trinhminhchien.com</a>
+🏦 I am a researcher at <a href="https://msdl.jbnu.ac.kr/" target="blank">MSDL</a>, Jeonbuk National University, South Korea.
+🌱 Research interests: computational mechanics, DNA origami, and AI.
+⚡ More about me at <a href="https://trinhminhchien.com/" target="_blank">trinhminhchien.com</a>
 
 <!-- 
 <div style="display: flex; align-items: center; justify-content: center;">
