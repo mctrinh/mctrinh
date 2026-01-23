@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm <a href="https://trinhminhchien.com/" target="blank">
 mctrinh 👋</a> </h1>
 
-🏦 I am a researcher at <a href="https://msdl.jbnu.ac.kr/" target="blank">MSDL</a>, Jeonbuk National University, South Korea.
+🏦 I am a researcher at <a href="https://jbnu.ac.kr/" target="_blank">Jeonbuk National University</a>, South Korea, and the founder of <a href="https://github.com/mindlinkor" target="_blank">MindLinkor</a>, United States
 
-🌱 Research interests: Computational mechanics, DNA origami, and AI.
+🌱 Research interests: Computational Mechanics, Biomechanics, Fracture Mechanics, Engineering Applications of AI/ML/DL
 
-⚡ More about me at <a href="https://trinhminhchien.com/" target="_blank">trinhminhchien.com</a>
+⚡ Learn more about me at <a href="https://trinhminhchien.com/" target="_blank">trinhminhchien.com</a>
 
 <!-- 
 <div style="display: flex; align-items: center; justify-content: center;">
