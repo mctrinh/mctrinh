@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://trinhminhchien.com/" target="blank">
 mctrinh 👋</a> </h1>
 
-🏦 I am a researcher at <a href="https://jbnu.ac.kr/" target="_blank">Jeonbuk National University</a>, South Korea, and the founder of <a href="https://github.com/mindlinkor" target="_blank">MindLinkor</a>, United States
+🏦 I am a researcher at <a href="https://jbnu.ac.kr/" target="_blank">Jeonbuk National University</a> and the founder of <a href="https://github.com/mindlinkor" target="_blank">MindLinkor</a>
 
-🌱 Research interests: Computational Mechanics, Biomechanics, Fracture Mechanics, Engineering Applications of AI/ML/DL
+🌱 Interested in Computational Mechanics, Biomechanics, Fracture Mechanics, and Engineering Applications of AI/ML/DL
 
 ⚡ Learn more about me at <a href="https://trinhminhchien.com/" target="_blank">trinhminhchien.com</a>
 
