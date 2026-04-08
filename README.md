@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://trinhminhchien.com/" target="blank">
 mctrinh 👋</a> </h1>
 
-🏦 I am a researcher at <a href="https://jbnu.ac.kr/" target="_blank">Jeonbuk National University</a> and the founder of <a href="https://github.com/mindlinkor" target="_blank">MindLinkor</a>
+🏦 I am a <a href="https://www.trinhminhchien.com/" target="_blank">researcher</a> and the founder of <a href="https://github.com/mindlinkor" target="_blank">MindLinkor</a>
 
 🌱 Interested in Computational Mechanics and Engineering Applications of AI/ML/DL
 
